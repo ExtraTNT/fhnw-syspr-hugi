@@ -5,6 +5,4 @@ int main(int argc, char* argv[]) {
         printf("%d: %s\n", i, argv[i]);
     }
     return 0;
-
-    return 0;
 }
